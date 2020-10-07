@@ -3,9 +3,22 @@ body
     color:#333
     text-align: left;
     font-family: "Arial";
+    font-size: 16px;
+    margin: o;
+    padding: o;
 }
 
+#cabecera
 {
+    background:#33A ;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+
+#container
+
     width: 70%;
     padding: 1cm;
     text-align: left;
@@ -16,11 +29,11 @@ body
 
 
 
-#container
+#container h1
 
 {
     font-size: 20px;}
-    
+
 
 
 
